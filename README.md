@@ -5,4 +5,4 @@ A place for people trying to learn FEMA's HAZUS-MH program. Fork the repository 
 
    * <B>Problem/Warning:</B> "Regional Aggregation Incomplete" when creating study area with Hazus 4.2 and running a Tsunami model.
 
-   * <B>Solution:</B>
+   * <B>Solution:</B> Couldn't aggregate a region for a Tsunami run because I had never enabled the "tsunami" model when I installed HAZUS initially. To solve this go to start menu > programs. Find the icon for Hazus and right click on it. Select change and enable the tsunami modeler. 
