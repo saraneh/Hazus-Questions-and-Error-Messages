@@ -4,7 +4,7 @@ A place for people trying to learn FEMA's HAZUS-MH program. Fork the repository 
 * <B>Please do</B> follow the bulleted, "problem/solution" formatting for quick and easy problem solving. Also add tags and images if you can. 
 * <B>Please don't</b> delete anyone elses content.             
 
-###HAZUS Issues
+### HAZUS Issues
 ---      
 <img src="https://drive.google.com/uc?export=view&id=18TWsVwmr1fYk6kUmgQ0871tP_CIbu5vU">     
 
