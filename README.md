@@ -1,5 +1,5 @@
    <img src="https://drive.google.com/uc?export=view&id=1hsN_W2--RS2fuQWuV2Ll1AjtF5XPly_5" height="60%" width="">  
-A place for people trying to learn FEMA's HAZUS-MH program. Fork the repository and submit a pull request if you have a question or answer to add. Quick, easy problem solving.    
+A place for people trying to learn FEMA's HAZUS-MH program. Fork the repository and submit a pull request if you have a question or answer to add. Please do follow the bulleted, problem - solution formatting for quick and easy problem solving. Also please add tags and images if you can.         
 
 <img src="https://drive.google.com/uc?export=view&id=18TWsVwmr1fYk6kUmgQ0871tP_CIbu5vU">  
 
