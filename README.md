@@ -2,7 +2,7 @@
 A place for people trying to learn FEMA's HAZUS-MH program. Fork the repository and submit a pull request if you have a question or answer to add.        
 
 * <B>Please do</B> follow the bulleted, "problem/solution" formatting for quick and easy problem solving. Also add tags and images if you can. 
-* <Please don't</b> delete anyone elses content.                  
+* <B>Please don't</b> delete anyone elses content.                  
 
 
 <img src="https://drive.google.com/uc?export=view&id=18TWsVwmr1fYk6kUmgQ0871tP_CIbu5vU">     
