@@ -1,6 +1,7 @@
-# Hazus Questions and Error Messages: A Problem-Solving Forum     
-A place for questions and error messages for people trying to learn FEMA's HAZUS-MH 
-<img src="https://drive.google.com/uc?export=view&id=1qRz4ZuR_3h4upaNWByW2fnBNLLv15GOY">
+## Hazus Questions and Error Messages: A Problem-Solving Forum     
+A place for people trying to learn FEMA's HAZUS-MH program. Fork the repository and submit a pull request if you have a question or answer to add. Simple as dat.
+<img src="https://drive.google.com/uc?export=view&id=1qRz4ZuR_3h4upaNWByW2fnBNLLv15GOY">     
+
 HAZUS Tsunami
 ---
 <img src="https://drive.google.com/uc?export=view&id=1hsN_W2--RS2fuQWuV2Ll1AjtF5XPly_5">
