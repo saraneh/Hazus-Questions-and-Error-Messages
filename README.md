@@ -1,5 +1,4 @@
-## HAZUS Questions and Error Messages: A Problem-Solving Forum     
-<img src="https://drive.google.com/uc?export=view&id=1hsN_W2--RS2fuQWuV2Ll1AjtF5XPly_5">  
+   <img src="https://drive.google.com/uc?export=view&id=1hsN_W2--RS2fuQWuV2Ll1AjtF5XPly_5">  
 A place for people trying to learn FEMA's HAZUS-MH program. Fork the repository and submit a pull request if you have a question or answer to add. <i>Simple as dat.</i>
 
 ### HAZUS Tsunami
