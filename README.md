@@ -1,6 +1,6 @@
-# Hazus_Questions_and_Error_Messages
+# Hazus Questions and Error Messages: A Problem-Solving Forum     
 A place for questions and error messages for people trying to learn FEMA's HAZUS-MH 
-
+<img src="https://drive.google.com/uc?export=view&id=1qRz4ZuR_3h4upaNWByW2fnBNLLv15GOY">
 HAZUS Tsunami
 ---
 <img src="https://drive.google.com/uc?export=view&id=18TWsVwmr1fYk6kUmgQ0871tP_CIbu5vU">
