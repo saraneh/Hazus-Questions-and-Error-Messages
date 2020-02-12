@@ -8,7 +8,11 @@ A place for people trying to learn FEMA's HAZUS-MH program. Fork the repository 
 
 ### Unsolved Issues:
 ---
-none yet 
+<img src="https://drive.google.com/uc?export=view&id=1KffnjFZj1mAhYftCCok_6SokZAj7jnLr">      
+
+   * <B>Problem/Warning:</B> "EsriGeometry2SqlGeometry" came up during a HAZUS Tsunami run for Puerto Rico. This message appears when I go to Hazard > User Data > Level 1: Quick Look-Single Maximum Runup. As far as I can tell I applied all the correct inputs.
+   
+   * <B>Solution: ?????</B>
 
 
 ### Solved Issues:
